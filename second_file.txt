@@ -1,1 +1,1 @@
-Adding text to second file
+This is the second change
